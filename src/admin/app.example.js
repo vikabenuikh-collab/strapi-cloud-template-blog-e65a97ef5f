@@ -1,3 +1,4 @@
+import 'strapi-plugin-tablify/admin/src';
 const config = {
   locales: [
     // 'ar',
